@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Petycha
-- 👀 I’m interested in Neuroradiology, statistics, AI.
+- 👀 I’m interested in Neuroradiology, Statistics, AI.
 - 🌱 I’m currently learning R.
 - 💞️ I’m looking to collaborate on anything.
 - 📫 How to reach me peycha@gmail.com
